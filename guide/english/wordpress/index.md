@@ -22,3 +22,5 @@ Whether its page transitions or a customized contact form, WordPress users are o
 
 - [WordPress Codex: the online manual](https://codex.wordpress.org/)
 - [WordPress Code Reference](https://developer.wordpress.org/reference/)
+
+- Using Wordpress with ReactJS: https://snipcart.com/blog/reactjs-wordpress-rest-api-example
